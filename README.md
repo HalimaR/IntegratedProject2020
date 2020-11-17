@@ -38,11 +38,14 @@ Deadline 19/10:
 POTENTIEEL RELEVANTE INFORMATIE:
 
 Rahimi Halima
+- dit is de link van hoe we die img kunnen vergelijken maar waar ik nog aantwijfel
+https://www.c-sharpcorner.com/forums/how-to-match-two-image-signatures?fbclid=IwAR3ggT__GCHdrtJ1eHyn2OZ334v9HzLRpEwTEn6Z5Gg8-Mb3WmStrtm56iI
 
+- de link van hoe je key points van 2 foto's kunt vergelijken en kijken of ze verschillend zijn
+https://www.tutorialspoint.com/how-to-match-the-key-points-of-two-images-using-opencv-java-library?fbclid=IwAR2fkS-dW0VBkZ5rzCG4YrtIwvjOwowelTBOBPMH4oS4-iHXiqO_oYNQxs8
 
-
-
-
+- dit is van android, kotlin waar ge die signatureSpi kunt gebruiken
+https://developer.android.com/reference/kotlin/java/security/SignatureSpi
 
 Volders Pieter
 
